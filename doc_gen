@@ -1,0 +1,7 @@
+#!/bin/bash
+SCRIPT=$1
+
+usage() {
+   echo "USAGE: doc_gen <script name>"
+}
+
